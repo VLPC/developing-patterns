@@ -1,8 +1,3 @@
-package classes;
-
-import abstract_class.Beverage;
-import interfaces.Condiment;
-
 import java.util.ArrayList;
 
 public class Espresso extends Beverage {

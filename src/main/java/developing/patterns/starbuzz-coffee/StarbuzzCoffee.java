@@ -1,7 +1,3 @@
-import classes.Espresso;
-import classes.Milk;
-import classes.Sugar;
-
 public class StarbuzzCoffee {
     public static void main(String[] args) {
         Espresso espresso = new Espresso();

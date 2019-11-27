@@ -1,5 +1,3 @@
-package classes;
-
 import interfaces.Condiment;
 
 public class Sugar implements Condiment {
