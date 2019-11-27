@@ -1,4 +1,4 @@
-package interfaces;
+package developing.patterns.starbuzz-coffee
 
 public interface Condiment {
     public String getDescription();

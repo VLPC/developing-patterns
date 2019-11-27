@@ -1,0 +1,13 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="SCALAFMT_CONFIG_PATH" value="$USER_HOME$/distribs/scalafmt.conf" />
+      <option name="FORMATTER" value="1" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="XML">
+      <indentOptions>
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
